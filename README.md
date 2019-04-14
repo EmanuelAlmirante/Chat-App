@@ -4,7 +4,7 @@ Project to grasp a better understanding of Go using TCP connections and creating
 
 # Setup
 
-Run the server with `go run Server.go` and then run up to 10 clients with `go run Client.go`.
+Run the server with `go run Server.go` and then run up to 10 clients (can be changed in the code) with `go run Client.go`.
 
 # Commands
 
